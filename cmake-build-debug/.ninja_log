@@ -1,19 +1,7 @@
 # ninja log v5
-0	425	1681386680708207429	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
-425	541	1681386680825855626	DopplerEffect	205ccae4fc40add4
-1	406	1681386746060188846	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
-406	447	1681386746103347951	DopplerEffect	205ccae4fc40add4
-1	291	1681386766715150566	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
-291	324	1681386766749228607	DopplerEffect	205ccae4fc40add4
-2	245	1681386872280329201	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
-245	274	1681386872310462847	DopplerEffect	205ccae4fc40add4
-1	425	1681388082770712443	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
-425	471	1681388082819032831	DopplerEffect	205ccae4fc40add4
-2	500	1681391870361921579	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
-500	591	1681391870454534724	DopplerEffect	205ccae4fc40add4
-2	469	1681428267725877329	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
-469	569	1681428267828407644	DopplerEffect	205ccae4fc40add4
-2	284	1681428294912905812	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
-284	318	1681428294948248861	DopplerEffect	205ccae4fc40add4
 2	281	1681428308931337156	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
 281	317	1681428308968051197	DopplerEffect	205ccae4fc40add4
+2	309	1681434289311167849	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
+309	350	1681434289354066458	DopplerEffect	205ccae4fc40add4
+2	458	1681688425825017435	CMakeFiles/DopplerEffect.dir/main.cpp.o	1abe1214a3f83faf
+458	566	1681688425936592513	DopplerEffect	205ccae4fc40add4
