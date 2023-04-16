@@ -13,8 +13,8 @@ double DopplerEffect(double observer_velocity, double source_velocity, double so
 int main() {
     double source_velocity, observer_velocity, source_frequency;
 
-        cout << "Enter the velocity of the observer (in m/s): ";
-        cin >> observer_velocity;
+    cout << "Enter the velocity of the observer (in m/s): ";
+    cin >> observer_velocity;
 
     cout << "Enter the velocity of the source (in m/s): ";
     cin >> source_velocity;
@@ -27,5 +27,4 @@ int main() {
     cout << "The observer frequency is " << observer_frequency << " Hz." << endl;
 
     return 0;
-
 }
