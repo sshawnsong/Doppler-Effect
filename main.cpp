@@ -7,7 +7,7 @@ const double kSpeedOfSound = 343; //m/s
 
 //Doppler Effect Formula
 double DopplerEffect(double observer_velocity, double source_velocity, double source_frequency) {
-    double observer_frequency =(kSpeedOfSound + observer_velocity) / (kSpeedOfSound + source_velocity);
+    double observer_frequency =  source_frequency * (kSpeedOfSound + observer_velocity) / (kSpeedOfSound + source_velocity);
     return observer_frequency;
 }
 
